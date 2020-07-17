@@ -1,2 +1,2 @@
 # Line-Follower-Robot
-Code for line follower robot 13 sensor array
+Code for line follower robot with 13 sensor array
